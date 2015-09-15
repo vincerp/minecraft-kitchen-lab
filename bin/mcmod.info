@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kitchen-lab",
+  "name": "Kitchen Lab",
+  "description": "Making cooking easy!",
+  "version": "0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vincerp"],
+  "credits": "Vincerp's first mod. So proud <3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
